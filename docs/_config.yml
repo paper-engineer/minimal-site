@@ -94,13 +94,14 @@ footer:
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
 
-collections:
-  site-info:
-    output: true
-    permalink: /:collection/:path/
-  project-info:
-    output: true
-    permalink: /:collection/:path/
+#collections:
+#  site-info:
+#    output: true
+#    permalink: /:collection/:path/
+#  project-info:
+#    output: true
+#    permalink: /:collection/:path/
+#I have decided we are not using collections. 
 
 defaults:
   # _posts
@@ -124,21 +125,13 @@ defaults:
       layout: single
       author_profile: true
   # _site-info
-  - scope:
-      path: "_site-info"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      toc: true
-  # _project-info
-  - scope:
-      path: "_project-info"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      toc: true
+  #- scope:
+  #    path: "_site-info"
+  #    type: pages
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    toc: true
 
 category_archive:
   type: liquid
