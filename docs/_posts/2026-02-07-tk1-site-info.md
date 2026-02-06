@@ -5,6 +5,7 @@ categories:
   - site info
 tags:
   - Tokoroa 1
+excerpt: ""
 ---
 
 (figure out how to add images)
