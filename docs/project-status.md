@@ -1,5 +1,8 @@
 # What did so far
 
+todo
+- figure out images
+
 7/2/2026
 
 - copied the whole thing into /docs by way of download and upload, now it works
@@ -7,8 +10,8 @@
 - deleted sample posts (they're now in the main under examples folder)
 - attempted to make a new post. it works.
 - updated "about" pages
-- attempted to change homepage layout. still a work in progress. 
-- added toc:true to the blog pages. let's see if it works. 
+- attempted to change homepage layout. it works. 
+- added toc:true to the blog pages. it works. 
 
 ---
 
@@ -18,7 +21,11 @@ New post: copy one of the previous posts and update the header bar, fuck it.
 
 Tags are projects. not addresses, just "Tokoroa 1". "Farm" will probably show up at some stage. 
 
-Categories are "updates" and "info", so far. 
+Categories are "updates" and "info", so far. make that project info and site info, I think. 
+
+Homepage updated: added home.md to _pages, set in the headings "permalink: /", deleted index.html
+
+To get a right-pane TOC, add "toc: true" to the headings, or to the config.yml default
 
 ---
 
