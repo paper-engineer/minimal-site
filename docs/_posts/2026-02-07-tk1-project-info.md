@@ -10,7 +10,9 @@ excerpt: ""
 
 # About this project
 
-This house was purchased as a half-completed renovation project in a good area of town. 
+This house was purchased as a half-completed renovation project in a good area of town. The plan is to put another house on the back yard, and potentially subdivide it. 
+
+# Purchase evaluation
 
 Key drawcards
 - address (excellent)
