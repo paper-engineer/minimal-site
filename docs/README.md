@@ -5,6 +5,7 @@
 - copied the whole thing into /docs by way of download and upload, now it works
 - updated nav pane, more or less
 - deleted sample posts (they're now in the main under examples folder)
+- attempted to make a new post. it works but doesn't show up in the posts-by-whatever collections. 
 
 New post: copy one of the previous posts and update the header bar, fuck it. 
 
