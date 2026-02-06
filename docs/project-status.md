@@ -12,7 +12,8 @@ todo
 - updated "about" pages
 - attempted to change homepage layout. it works. 
 - added toc:true to the blog pages. it works.
-- working out something with collections to make site/project info easily accessible. I guess it works. 
+- working out something with collections to make site/project info easily accessible. I guess it works.
+- fuck it, too much work. we'll keep them posts and do a category:tag deal. 
 
 ---
 
