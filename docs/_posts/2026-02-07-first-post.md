@@ -1,6 +1,6 @@
 ---
 title: "First Post"
-date: 2026-02-07T15:34:30-04:00
+date: 2026-02-07
 categories:
   - general
 tags:
@@ -8,4 +8,4 @@ tags:
   - update
 ---
 
-Lorem ipsum, etc. 
+Lorem ipsum, etc. Why is this not working??
