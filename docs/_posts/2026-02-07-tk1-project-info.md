@@ -1,5 +1,5 @@
 ---
-title: "Project Information: Tokoroa 1"
+title: "Project Info: Tokoroa 1"
 date: 2026-02-07
 categories:
   - project info
