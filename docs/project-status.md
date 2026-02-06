@@ -28,7 +28,7 @@ Homepage updated: added home.md to _pages, set in the headings "permalink: /", d
 
 To get a right-pane TOC, add "toc: true" to the headings, or to the config.yml default
 
-You can use <br> inside of markdown quoted text. 
+You can use \<br> inside of markdown quoted text. 
 
 ---
 
