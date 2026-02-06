@@ -1,6 +1,6 @@
 ---
 title: Site Info
-layout: collection
-permalink: /site-info/
-collection: site-info
+layout: category
+permalink: /categories/site-info/
+taxonomy: site info
 ---
