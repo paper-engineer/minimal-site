@@ -4,7 +4,7 @@ date: 2026-02-07
 categories:
   - update
 tags:
-  - 11 Totara St
+  - Tokoroa 1
 ---
 
 Lorem ipsum, etc. Hi guys. 
