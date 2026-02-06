@@ -2,7 +2,7 @@
 title: "Project Information: Tokoroa 1"
 date: 2026-02-07
 categories:
-  - update
+  - project info
 tags:
   - Tokoroa 1
 ---
