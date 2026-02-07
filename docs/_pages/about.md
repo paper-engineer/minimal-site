@@ -36,7 +36,7 @@ First there is a deposit to hold the house. This can be 30% of 100k, which is an
 
 Some expenses are incurred in the course of getting the land ready for the house, like council fees, surveying, drafting, and site prep. Those I may or may not have managed to cover out of pocket, and if I didn't, then I'll get you to foot the bill for them. This might easily come up to 20-30k, if not more. 
 
-The house has to be paid for (mostly) up front before it's shifted. (Depending on the company, they may or may not be OK with a contract that says last 5% after it's tied to piles. But that's still 95% of 100k.) I really, really don't carry this much cash around. So I borrow the other 65-70k off of you. 
+Once we're ready for the move itself, the house has to be paid for (mostly) up front before it's shifted. (Depending on the company, they may or may not be OK with a contract that says last 5% after it's tied to piles. But that's still 95% of 100k.) I really, really don't carry this much cash around. So I borrow the other 65-70k off of you. 
 
 ### 4. Profit
 
