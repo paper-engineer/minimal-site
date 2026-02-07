@@ -38,7 +38,7 @@ Some expenses are incurred in the course of getting the land ready for the house
 
 Once we're ready for the move itself, the house has to be paid for (mostly) up front before it's shifted. (Depending on the company, they may or may not be OK with a contract that says last 5% after it's tied to piles. But that's still 95% of 100k.) I really, really don't carry this much cash around. So I borrow the other 65-70k off of you. 
 
-### 4. Profit
+### 4. Profit (...maybe?)
 
 Now that the house is on the land, the bank will finally lend on it! Hooray! I borrow all the money I owe you at bank rates, so I can stop paying hard money rates. 
 
