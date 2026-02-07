@@ -20,7 +20,13 @@ The current plan includes the following:
 
 # Pictures
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg)
+![District Plan]({{ site.url }}{{ site.baseurl }}/assets/images/tk1-dp.png)
+
+![Site dimensions 1]({{ site.url }}{{ site.baseurl }}/assets/images/tk1-site1.png)
+
+![Site dimensions 2]({{ site.url }}{{ site.baseurl }}/assets/images/tk1-site2.png)
+
+![Concept sketch]({{ site.url }}{{ site.baseurl }}/assets/images/tk1-sketch.png)
 
 # What I'm looking for in a house
 This is considered a good part of town, so I'd like a good-quality house to put on it: 3 or more bedrooms in 90+ m2 would be ideal, with space for a second toilet. I am open to two-piece shifts and/or houses requiring some renovations. I'm willing to consider house-only sales and arrange my own removal. 
