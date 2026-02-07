@@ -3,9 +3,9 @@ main:
     url: /about/
   - title: "Invest"
     url: /invest/
-  - title: "Project Info"
+  - title: "Projects"
     url: /categories/project-info/
-  - title: "Site Info"
+  - title: "Site Details"
     url: /categories/site-info/
   - title: "Project Updates"
     url: /categories/update/
