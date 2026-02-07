@@ -50,7 +50,7 @@ Council signs it off, it's now officially a completed home that people are allow
 
 Except for the things that aren't required for council sign-off but are required to make it useful as a house. Like driveways (10k), fencing (5k), decking (10k), etc. 
 
-(Just kidding - I made enough money on the deal that these can come out of bank money.) 
+(Just kidding! I made enough money on the deal that these can come out of bank money.) 
 
 ### 6. Repeat
 
