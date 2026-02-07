@@ -13,13 +13,17 @@ Section size: 980m2 (more or less)
 The current plan includes the following: 
 - Remove the second garage (light blue roof, 5m x 6m). 
 - Move the first garage (3.6m x 7m) back. 
-- Put a new-to-me house on the corner with the high ground. 
+- Put a new-to-me house on the corner with the high ground. (bottom left of images)
 - Potentially add a cabin/sleepout, possibly with attached bathroom, to be used as an extra bedroom for higher rent. Of course, the final layout will depend on the selected house for relocation. 
 
 *I'm planning to live in the cabin on weekdays(ish) for work during the project! This factors into my calculations! 
 
 # What I'm looking for in a house
-This is considered a good part of town, so I'd like a good-quality house to put on it: 3 or more bedrooms in 90+ m2 would be ideal, with space for a second toilet. I am open to two-piece shifts and/or houses requiring some renovations. I'm willing to consider house-only sales and arrange my own removal. 
+This is considered a good part of town, so I'd like a good-quality house to put on it: either
+- 3 or more bedrooms in 90+ m2, preferably with space for a second toilet, or
+- 4+ bedrooms in 110+ m2, definitely needs space for a second toilet. 
+
+I am open to two-piece shifts and/or houses requiring some renovations. I'm willing to consider house-only sales and arrange my own removal. 
 
 My total working budget for the house and move is, I think, on the order of $100k plus GST, after the cabin; so maybe $115k+GST total if the cabin turns out not to be necessary. This doesn't include renovations - the total cost including renovations may exceed that amount, but that will also factor into house selection. (Good part of town or not, it's still Tokoroa and I don't need to overcapitalise.) It also doesn't include surveying, drafting, consenting, etc. 
 
