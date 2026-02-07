@@ -20,11 +20,17 @@ The current plan includes the following:
 
 # Pictures
 
-![District Plan]({{ site.url }}{{ site.baseurl }}/assets/images/tk1-dp.png)
+Site dimensions
 
 ![Site dimensions 1]({{ site.url }}{{ site.baseurl }}/assets/images/tk1-site1.png)
 
-![Site dimensions 2]({{ site.url }}{{ site.baseurl }}/assets/images/tk1-site2.png)
+![Site dimensions 2]({{ site.url }}{{ site.baseurl }}/assets/images/tk1-site2.png) 
+
+District plan
+
+![District Plan image]({{ site.url }}{{ site.baseurl }}/assets/images/tk1-dp.png)
+
+Concept sketch
 
 ![Concept sketch]({{ site.url }}{{ site.baseurl }}/assets/images/tk1-sketch.png)
 
