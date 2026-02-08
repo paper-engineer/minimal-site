@@ -12,6 +12,7 @@ You can follow project updates on this site to see where your money is being put
 If you want 20%pa instead, I can go find the guy who does that. But it's not me. 
 
 ## Details
+
 You lend me money. Once-off, ad-hoc, whatever we agree on. 
 
 Every month on the 15th, I repay you 1% of the highest borrowing value in the last month. Or it's added on to the total repayments due at the end instead, if you choose that option. 
@@ -21,6 +22,8 @@ You can ask for the money back, but everything is "best effort", except at miles
 If I'm done with your money and want to return it, I will let you know when I know, which is probably a few weeks to a few months' notice. It will come back to you by the 15th of the month following a milestone date, along with the final interest payment. 
 
 ## Fine print
+
+The minimum investment amount is $10k NZD. 
 
 Fractional cents are rounded down in my favour when calculating repayments on the 15th of the month. 
 
