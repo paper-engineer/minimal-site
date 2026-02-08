@@ -62,6 +62,8 @@ I mean, you didn't really expect me to stop at one house?
 
 # Why you should lend Mog more money
 
+In the first place, if you lend more money, you get paid more interest. You like money, right?
+
 Some of the stuff I listed under step 4 can actually be done during step 3, if I have the credit line to do it. Similarly, step 5 items can be done during step 4, with a sufficiently large line of credit. This means I'll be paying interest on more money, but it also means the project gets done in less time, so total interest paid more or less comes out in the wash. Turnover rate is the key determinant of earnings over time, and turnover rate is directly linked to size of credit line. 
 
 In another direction, I could make do with a smaller credit line, by reducing the price I pay for the house up front. Call it a 65k house instead of a 100k house. But then it'll take an extra 50k of renovations after the fact to reach the same standard. Final result: less profit to me. If I'm limited by my credit line, then this might be the only way the project gets done at all, but it does rather suck on a wallet level. And I have to make this decision at step 2, before I know how much the additional expenses of steps 3-5 will cost me. (I have an estimate with some error bars. That's not the same as knowing.) I've done all my due diligence and I believe my plan is well within safety margins, but you know what would let me make more profitable decisions at that level of confidence? A bigger credit line, that's what. 
