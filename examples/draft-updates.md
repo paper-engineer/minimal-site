@@ -4,7 +4,7 @@ As it turns out, someone working full time finds it very difficult to make it to
 
 *Path of Building player enters stage left*
 
-*A Planning & Development Assistant has been added to the team for this project.* 
+*A Planning & Development Assistant has been added to the team for this project* 
 
 # Meeting with Council...as expected
 
