@@ -18,6 +18,13 @@ The current plan includes the following:
 
 *I'm planning to live in the cabin on weekdays(ish) for work during the project! This factors into my calculations! 
 
+
+# Key dimensions 
+
+(approximate, as measured with ruler on PC screen)
+
+![Site dimensions]({{ site.url }}{{ site.baseurl }}/assets/images/tk1-dims.jpg)
+
 # What I'm looking for in a house
 This is considered a good part of town, so I'd like a good-quality house to put on it: either
 - 3+ bedrooms in 90+ m2, preferably with space for a second toilet, or
@@ -27,7 +34,7 @@ I am open to two-piece shifts and/or houses requiring some renovations. I'm will
 
 My total working budget for the house and move is, I think, on the order of $100k plus GST, after the cabin; so maybe $115k+GST total if the cabin turns out not to be necessary. This doesn't include renovations - the total cost including renovations may exceed that amount, but that will also factor into house selection. (Good part of town or not, it's still Tokoroa and I don't need to overcapitalise.) It also doesn't include surveying, drafting, consenting, etc. 
 
-## Key dimensions (more or less)
+## Dimension limitations (more or less)
 
 max width 14.18m, or ~500 more if it's tilted; max length ~15.1m, or ~4 more if it's tilted, but that starts to mess with outdoor area trouble
 
@@ -48,10 +55,6 @@ we can put garage at back of section if house is up to 9.6 wide. (moving it a li
 - Wastewater lines passing under section - limitations to structures around front house
 
 # Pictures
-
-Site dimensions (approximate, as measured with ruler on PC screen)
-
-![Site dimensions]({{ site.url }}{{ site.baseurl }}/assets/images/tk1-dims.jpg)
 
 District plan
 
