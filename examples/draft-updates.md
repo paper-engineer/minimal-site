@@ -1,10 +1,10 @@
-# New Hire!
+# Signing
 
-As it turns out, someone working full time finds it very difficult to make it to a house yard 2.5 hours away during work hours for viewings. 
+It's almost official, I have signed the paperwork to settle. 
 
-*Path of Building player enters stage left*
+# Insurance 
 
-*A Planning & Development Assistant has been added to the team for this project* 
+I love my insurance broker! He has such lovely inside knowledge like "insurers are getting reluctant to cover relocatables now, unless you have existing business with them". That, and the comparison documents, and even more inside knowledge around insuring cabins of the almost-self-contained variety. 
 
 # Meeting with Council...as expected
 
@@ -12,13 +12,26 @@ I had such high hopes, you know? Arranged a meeting with the engineer, planner a
 
 Got some usable info around subdivision, at least, but nothing immediately actionable. Now to chase all my required info via email. 
 
+## Everything but the kitchen sink
+
+I'm told council considers the kitchen sink to be the difference between a self-contained unit and not. TBC how that plays with insurance, but there are options. Have I mentioned I love my insurance broker?
+
 ---
+future updates
+
+there is exactly one geotech used by most of the local property devs. wayne also recommends him. so there we have it. 
+
+talk about house viewings
+
+other stuff, idk
+
+--
 
 for project info
 
 # Team
 
-I wouldn't be anywhere without Wayne from iFindProperty. Thanks for introducing me to Ian from WOW Renovations too. Wow indeed. 
+I wouldn't be anywhere without Wayne from iFindProperty. Thanks for introducing me to Ian from WOW Renovations too. WOW, indeed. 
 
 Craig at Kiwibank lives up to his bio on the website. 
 
