@@ -21,16 +21,6 @@ Section size: 980m2 (more or less)
 - Trees will be cut back or removed to fit a house through. 
 - The fence in the lower left corner is **~6.8m** from the house at the closest approach, and is 1.6m high. I understand there are options (lift the house above the fence, reinstate it at my cost after the move, or the right two-piece shift may bypass the issue entirely), but the cost and convenience of the required option will factor into house selection. 
 
-# Current plan
-
-The current plan includes the following: 
-- Remove the second garage (light blue roof, 5m x 6m). 
-- Move the first garage (3.6m x 7m) back. 
-- Put a new-to-me house on the corner with the high ground. (bottom left of images)
-- Potentially add a cabin/sleepout, possibly with attached bathroom, to be used as an extra bedroom for higher rent. Of course, the final layout will depend on the selected house for relocation. 
-
-*I'm planning to live in the cabin on weekdays(ish) for work during the project! This factors into my calculations! 
-
 # What I'm looking for in a house
 
 This is considered a good part of town, so I'd like a good-quality house to put on it: either
@@ -50,6 +40,16 @@ allowing 4m from driveway exit to garage and putting an L behind, max width of t
 cabin at 6m allows long part of L to be 10.1m, plus a little under 4m if tilted, accounting 1.5m to cabin. so we definitely tilt it. also cabin can be made smaller to 4.5m. 
 
 we can put garage at back of section if house is up to 9.6 wide. (moving it a little bit up would allow a slightly wider house.) this is useful for, idk, villas. they're kind of square. 
+
+# Current plan
+
+The current plan includes the following: 
+- Remove the second garage (light blue roof, 5m x 6m). 
+- Move the first garage (3.6m x 7m) back. 
+- Put a new-to-me house on the corner with the high ground. (bottom left of images)
+- Potentially add a cabin/sleepout, possibly with attached bathroom, to be used as an extra bedroom for higher rent. Of course, the final layout will depend on the selected house for relocation. 
+
+*I'm planning to live in the cabin on weekdays(ish) for work during the project! This factors into my calculations! 
 
 # Planning caveats
 - Section is partly in a rainfall 100-year flood zone, so the paperwork to approve the relocated build will be a bit fiddly and we'll probably need higher piles than normal.
