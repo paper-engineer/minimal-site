@@ -10,6 +10,9 @@ talk about house viewings
 other stuff, idk
 
 --
+man, I just went to akl. so there's a broker. myles has Opinions on house movers. that was a really long day. it comes down to 3 options, we'll say. getting builder to weigh in. and expert advice. also I learnt what exactly akl council is doing. 
+
+--
 
 for project info
 
