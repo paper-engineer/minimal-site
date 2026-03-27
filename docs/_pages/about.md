@@ -40,13 +40,15 @@ Some expenses are incurred in the course of getting the land ready for the house
 
 Once we're ready for the move itself, the house has to be paid for (mostly) up front before it's shifted. (Depending on the company, they may or may not be OK with a contract that says last 5% after it's tied to piles. But that's still 95% of 100k.) I really, really don't carry this much cash around. So I borrow the other 65-70k off of you. 
 
+And then I still have to get it connected to services (20k) before the bank thinks it's worth money. 
+
 This is the point in the project that requires the highest amount of liquidity, which I'm getting from private lending. 
 
 ### 4. Profit (...maybe?)
 
-Now that the house is on the land, the bank will finally lend on it! Hooray! I borrow all the money I owe you at bank rates, so I can stop paying hard money rates on it. 
+Now that the house is tied to piles and connected to services, the bank will finally lend on it! Hooray! I borrow all the money I owe you at bank rates, so I can stop paying hard money rates on it. 
 
-Okay, that's a bit of an oversimplification, because it's not a completed house by any stretch of the imagination. I still have to connect it to services (20k), clean up damage from the move (10k), and finish off any required renovations ($???). Anything I can't get from the bank, I'll have to get from you again. 
+Okay, that's a bit of an oversimplification, because it's not a completed house by any stretch of the imagination. I still have to clean up damage from the move (10k), and finish off any required renovations ($???). Anything I can't get from the bank, I'll have to get from you again. 
 
 ### 5. Profit (for real this time)
 
