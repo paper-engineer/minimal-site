@@ -3,6 +3,10 @@ permalink: /invest/
 title: "Invest in Mog"
 ---
 
+(sorry, currently closed to new investment)
+
+---
+
 These are the terms of the hard money investment deal offered by Mog. 
 
 Summary: 12%pa, compounded monthly, paid out either monthly or all at once when returning the base capital. 
@@ -37,6 +41,21 @@ The traditional method of splitting a joint venture is one person fronts all the
 
 I'm the one with the effort. That means you're the one with the money. 
 
-For a 50/50 split, your minimum entry point is something like $250k for the first round, and $120k per round thereafter. Exact figures depending on location of development. If you're coming in with less, then I have to bring some of the money in addition to all the effort, so the final profit split will favour me. 
+For a 50/50 split, your minimum entry point is something like $250k for the first round, and $120k to accelerate it to two rounds per year instead of one. Exact figures depending on location of development. If you're coming in with less, then I have to bring some of the money in addition to all the effort, so the final profit split will favour me. Each round is worth about 150-200k profit in approximately a one-year timeframe. 
 
 Alternatively, your entry point can include property you want developed in some way; we can figure out something that works. (Money is still required to develop the property! Just not $250k liquid of it.) 
+
+## How this is different from straight lending
+
+In the first place, you also assume a percentage of the risk. Discovered a leak after settlement, costing 30k to reroof? Too bad for the profit margin. 
+
+Next, I would note that buying property with me is a long-term venture. You don't get 100k cash return and your 250k back after one year. You get 100k of extra property equity, and the original 250k is also still tied up in property equity. Almost the entire profit of each round is in property equity, that's the nature of this game. There's only one way to get equity out reliably, which is sell up. Refinancing doesn't get you all your money back and it also puts a hard stop to any further development using that equity, in which case, we may as well disentangle the whole partnership anyway since it's obviously run its course. (If you want to take out money by refinancing, holding costs isn't an unreasonable approximation for how much money a project can afford to bleed without tripping up the cycle.) 
+
+Also, the paperwork involved in setting up ownership structures isn't cheap, in either money or effort. It's not worth it for a one-off deal, as far as I'm concerned. This option is a lot more suited for someone who thinks "buy a share in a rapidly growing stack of long-term rental houses" is a good idea. The correct time horizon to think on is multiple years. You should also take independent legal and accounting advice before agreeing to any sort of JV structure. 
+
+Another point of consideration is that transactions between related parties are generally still considered sales for tax purposes, and (depending on the exact specifics) also reset the clock on the brightline test. I am working very hard here not to be accounted as a "property trader". Tax treatment is different if you're a trader. Which I am not: I add value by developing, and then I hold on to it and keep my tenants happy. I'm not interested in doing things that drop me into the "trader" bucket. I'm sure you aren't either, since traders have to pay GST. 
+
+
+
+
+
